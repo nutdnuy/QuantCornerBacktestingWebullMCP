@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Validation · Webull"
+  short_description: "Study sensitivity and evaluate a locked holdout"
+  default_prompt: "Use $qc-webull-validate to assess pre-specified development sensitivity or a frozen held-out candidate while preserving experiment history and exposure records."

@@ -1,0 +1,8 @@
+interface:
+  display_name: "QuantCornerBacktestingWebullMCP"
+  short_description: "Research long-only strategies with Webull MCP"
+  icon_large: "./assets/quantcorner-mark-light.svg"
+  brand_color: "#6200EE"
+  default_prompt: "Use $quantcorner-backtesting-webull-mcp to onboard my Webull connection and interview me before researching a long-only strategy."
+policy:
+  allow_implicit_invocation: true

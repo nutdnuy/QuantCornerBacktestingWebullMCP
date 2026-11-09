@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "shared_skill": "quantcorner-backtesting-webull-mcp",
+  "skills": [
+    "ask-quantcorner-webull",
+    "qc-webull-setup",
+    "qc-webull-design-strategy",
+    "qc-webull-audit-data",
+    "qc-webull-backtest",
+    "qc-webull-validate",
+    "qc-webull-explain-results",
+    "qc-webull-report"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Backtest · Webull"
+  short_description: "Run and record the approved development experiment"
+  default_prompt: "Use $qc-webull-backtest to run an approved daily long-only development backtest with shared Webull research gates, costs and complete trial history."

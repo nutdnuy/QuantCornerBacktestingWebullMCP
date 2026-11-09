@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Results · Webull"
+  short_description: "Explain ratios and strategy behavior in context"
+  default_prompt: "Use $qc-webull-explain-results to interpret existing backtest metrics, costs and drawdown recovery to explain strategy behavior without a binary investment verdict."

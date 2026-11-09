@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Setup · Webull"
+  short_description: "Prepare a workspace and verify existing Webull MCP"
+  default_prompt: "Use $qc-webull-setup to set up the QuantCorner research workspace and check an existing Webull MCP connection. Use for first use or a changed host/provider."

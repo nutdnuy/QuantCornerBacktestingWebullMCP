@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Strategy Design · Webull"
+  short_description: "Define a long-only strategy with grill-me"
+  default_prompt: "Use $qc-webull-design-strategy to interview the user with grill-me and record a falsifiable long-only backtest plan before experimentation."

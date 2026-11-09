@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask QuantCorner · Webull"
+  short_description: "Choose the next QuantCorner backtesting skill"
+  default_prompt: "Use $ask-quantcorner-webull to route a backtesting question or resume an existing experiment through the QuantCorner suite. Use when the user is unsure which step or skill to use."

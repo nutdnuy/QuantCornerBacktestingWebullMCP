@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Report · Webull"
+  short_description: "Render a portable branded backtesting report"
+  default_prompt: "Use $qc-webull-report to render an existing backtest result as an offline QuantCorner report with the authentic logo, embedded fonts and explained metrics."

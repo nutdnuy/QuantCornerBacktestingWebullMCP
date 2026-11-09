@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCorner Data Audit · Webull"
+  short_description: "Audit Webull data coverage and execution assumptions"
+  default_prompt: "Use $qc-webull-audit-data to retrieve and audit Webull MCP data for a specified backtest plan, including pagination, calendar coverage and corporate-action limitations."
